@@ -1,0 +1,7 @@
+{
+  "name": "koeng task gallery",
+  "description": "koeng自定义订阅列表",
+  "task": [
+    "5 * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js, tag=中国电信 , img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png",
+  ]
+}
